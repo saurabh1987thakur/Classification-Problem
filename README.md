@@ -20,4 +20,4 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 To classify the data in two classes- the patient survived 5 years or longer and the patient died within 5 year
 
 ## Solution
-Used logistic regression technique to classify between two classes
+Used Logistic Regression Technique to classify between two classes
